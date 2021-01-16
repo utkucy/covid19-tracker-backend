@@ -1,0 +1,11 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://0.0.0.0:5432/covid19
+    username: postgres
+    password: password
+    pool-size: 30
+
+
+
+
+
